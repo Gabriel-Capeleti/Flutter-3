@@ -116,7 +116,7 @@ class _MyHomePageState extends State<MyHomePage> {
       );
     }
     void buttonPressed(){
-		mostrar.text = nome.text + " " + sobrenome.text
+		mostrar.text = nome.text + " " + sobrenome.text;
 	}
     
 }
